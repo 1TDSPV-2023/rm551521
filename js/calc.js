@@ -1,5 +1,4 @@
 
-
 function insereNumeroNoVisor(botao,visor) {
 
     if(botao.value == "+" || botao.value == "-" || botao.value == "*" || botao.value == "/"){
