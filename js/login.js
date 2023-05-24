@@ -1,8 +1,17 @@
 
+//Adicione um atributo a cada objeto sendo eles:
+//AvatarUsuario
+//Este atributo deve conter a URL da imagem de avatar do usuario
 
 //LISTA DE USUÁRIOS
 let listaDeUsuarios = [
-
+    {
+        AvatarUsuario : "Paulo da Selva",
+        nomeUsuario : "paulo",
+        senhaUsuario : "123456"
+    
+    }
+    ,
     {
         nomeCompleto : "José das Couves",
         nomeUsuario : "jose",

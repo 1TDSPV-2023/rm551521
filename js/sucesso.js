@@ -1,4 +1,6 @@
 
+//Através  do objeto que chega nesta página recepcione e coloque seus atributos em elementos semanticos.
+//Crie um CARD, onde você deve apresentar todos os atributos do usuário, menos a senha
 
 if(localStorage.getItem("user-token") != null){
     const bemVindoEl = document.querySelector("#bemvindo-user");
